@@ -1,0 +1,6 @@
+D:\study\CSharpEducation\LogLib\bin\Debug\LogLib.dll
+D:\study\CSharpEducation\LogLib\bin\Debug\LogLib.pdb
+D:\study\CSharpEducation\LogLib\obj\Debug\LogLib.csproj.AssemblyReference.cache
+D:\study\CSharpEducation\LogLib\obj\Debug\LogLib.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation\LogLib\obj\Debug\LogLib.dll
+D:\study\CSharpEducation\LogLib\obj\Debug\LogLib.pdb

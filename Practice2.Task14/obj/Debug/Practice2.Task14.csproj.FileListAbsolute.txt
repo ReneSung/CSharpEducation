@@ -1,0 +1,29 @@
+D:\study\CSharpEducation.Practice\Practice2.Task14\bin\Debug\Practice2.Task14.exe.config
+D:\study\CSharpEducation.Practice\Practice2.Task14\bin\Debug\Practice2.Task14.exe
+D:\study\CSharpEducation.Practice\Practice2.Task14\bin\Debug\Practice2.Task14.pdb
+D:\study\CSharpEducation.Practice\Practice2.Task14\obj\Debug\Practice2.Task14.csproj.AssemblyReference.cache
+D:\study\CSharpEducation.Practice\Practice2.Task14\obj\Debug\Practice2.Task14.csproj.SuggestedBindingRedirects.cache
+D:\study\CSharpEducation.Practice\Practice2.Task14\obj\Debug\Practice2.Task14.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation.Practice\Practice2.Task14\obj\Debug\Practice2.Task14.exe
+D:\study\CSharpEducation.Practice\Practice2.Task14\obj\Debug\Practice2.Task14.pdb
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task14\bin\Debug\Practice2.Task14.exe.config
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task14\bin\Debug\Practice2.Task14.exe
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task14\bin\Debug\Practice2.Task14.pdb
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task14\obj\Debug\Practice2.Task14.csproj.AssemblyReference.cache
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task14\obj\Debug\Practice2.Task14.csproj.CoreCompileInputs.cache
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task14\obj\Debug\Practice2.Task14.exe
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task14\obj\Debug\Practice2.Task14.pdb
+C:\study\CSharpEducation\Practice2.Task14\bin\Debug\Practice2.Task14.exe.config
+C:\study\CSharpEducation\Practice2.Task14\bin\Debug\Practice2.Task14.exe
+C:\study\CSharpEducation\Practice2.Task14\bin\Debug\Practice2.Task14.pdb
+C:\study\CSharpEducation\Practice2.Task14\obj\Debug\Practice2.Task14.csproj.AssemblyReference.cache
+C:\study\CSharpEducation\Practice2.Task14\obj\Debug\Practice2.Task14.csproj.CoreCompileInputs.cache
+C:\study\CSharpEducation\Practice2.Task14\obj\Debug\Practice2.Task14.exe
+C:\study\CSharpEducation\Practice2.Task14\obj\Debug\Practice2.Task14.pdb
+D:\study\CSharpEducation\Practice2.Task14\bin\Debug\Practice2.Task14.exe.config
+D:\study\CSharpEducation\Practice2.Task14\bin\Debug\Practice2.Task14.exe
+D:\study\CSharpEducation\Practice2.Task14\bin\Debug\Practice2.Task14.pdb
+D:\study\CSharpEducation\Practice2.Task14\obj\Debug\Practice2.Task14.csproj.AssemblyReference.cache
+D:\study\CSharpEducation\Practice2.Task14\obj\Debug\Practice2.Task14.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation\Practice2.Task14\obj\Debug\Practice2.Task14.exe
+D:\study\CSharpEducation\Practice2.Task14\obj\Debug\Practice2.Task14.pdb

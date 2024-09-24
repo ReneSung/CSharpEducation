@@ -1,0 +1,15 @@
+D:\study\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net7.0\Task.CSharpBase.exe
+D:\study\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net7.0\Task.CSharpBase.deps.json
+D:\study\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net7.0\Task.CSharpBase.runtimeconfig.json
+D:\study\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net7.0\Task.CSharpBase.dll
+D:\study\CSharpEducation.Practice\Task.CSharpBase\bin\Release\net7.0\Task.CSharpBase.pdb
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\Task.CSharpBase.csproj.AssemblyReference.cache
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\Task.CSharpBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\Task.CSharpBase.AssemblyInfoInputs.cache
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\Task.CSharpBase.AssemblyInfo.cs
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\Task.CSharpBase.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\Task.CSharpBase.dll
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\refint\Task.CSharpBase.dll
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\Task.CSharpBase.pdb
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\Task.CSharpBase.genruntimeconfig.cache
+D:\study\CSharpEducation.Practice\Task.CSharpBase\obj\Release\net7.0\ref\Task.CSharpBase.dll

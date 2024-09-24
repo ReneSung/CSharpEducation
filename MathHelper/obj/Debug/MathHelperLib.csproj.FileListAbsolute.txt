@@ -1,0 +1,12 @@
+C:\study\CSharpEducation\MathHelper\bin\Debug\MathHelper.dll
+C:\study\CSharpEducation\MathHelper\bin\Debug\MathHelper.pdb
+C:\study\CSharpEducation\MathHelper\obj\Debug\MathHelperLib.csproj.AssemblyReference.cache
+C:\study\CSharpEducation\MathHelper\obj\Debug\MathHelperLib.csproj.CoreCompileInputs.cache
+C:\study\CSharpEducation\MathHelper\obj\Debug\MathHelper.dll
+C:\study\CSharpEducation\MathHelper\obj\Debug\MathHelper.pdb
+D:\study\CSharpEducation\MathHelper\bin\Debug\MathHelper.dll
+D:\study\CSharpEducation\MathHelper\bin\Debug\MathHelper.pdb
+D:\study\CSharpEducation\MathHelper\obj\Debug\MathHelperLib.csproj.AssemblyReference.cache
+D:\study\CSharpEducation\MathHelper\obj\Debug\MathHelperLib.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation\MathHelper\obj\Debug\MathHelper.dll
+D:\study\CSharpEducation\MathHelper\obj\Debug\MathHelper.pdb

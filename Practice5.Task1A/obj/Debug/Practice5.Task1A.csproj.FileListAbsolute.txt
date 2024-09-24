@@ -1,0 +1,14 @@
+C:\study\CSharpEducation\Practice5.Task1A\bin\Debug\Practice5.Task1A.exe.config
+C:\study\CSharpEducation\Practice5.Task1A\bin\Debug\Practice5.Task1A.exe
+C:\study\CSharpEducation\Practice5.Task1A\bin\Debug\Practice5.Task1A.pdb
+C:\study\CSharpEducation\Practice5.Task1A\obj\Debug\Practice5.Task1A.csproj.AssemblyReference.cache
+C:\study\CSharpEducation\Practice5.Task1A\obj\Debug\Practice5.Task1A.csproj.CoreCompileInputs.cache
+C:\study\CSharpEducation\Practice5.Task1A\obj\Debug\Practice5.Task1A.exe
+C:\study\CSharpEducation\Practice5.Task1A\obj\Debug\Practice5.Task1A.pdb
+D:\study\CSharpEducation\Practice5.Task1A\bin\Debug\Practice5.Task1A.exe.config
+D:\study\CSharpEducation\Practice5.Task1A\bin\Debug\Practice5.Task1A.exe
+D:\study\CSharpEducation\Practice5.Task1A\bin\Debug\Practice5.Task1A.pdb
+D:\study\CSharpEducation\Practice5.Task1A\obj\Debug\Practice5.Task1A.csproj.AssemblyReference.cache
+D:\study\CSharpEducation\Practice5.Task1A\obj\Debug\Practice5.Task1A.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation\Practice5.Task1A\obj\Debug\Practice5.Task1A.exe
+D:\study\CSharpEducation\Practice5.Task1A\obj\Debug\Practice5.Task1A.pdb

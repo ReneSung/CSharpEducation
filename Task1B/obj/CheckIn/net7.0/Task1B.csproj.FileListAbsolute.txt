@@ -1,0 +1,15 @@
+D:\study\CSharpCompile\bin\net7.0\Task1B.exe
+D:\study\CSharpCompile\bin\net7.0\Task1B.deps.json
+D:\study\CSharpCompile\bin\net7.0\Task1B.runtimeconfig.json
+D:\study\CSharpCompile\bin\net7.0\Task1B.dll
+D:\study\CSharpCompile\bin\net7.0\Task1B.pdb
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\Task1B.csproj.AssemblyReference.cache
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\Task1B.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\Task1B.AssemblyInfoInputs.cache
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\Task1B.AssemblyInfo.cs
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\Task1B.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\Task1B.dll
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\refint\Task1B.dll
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\Task1B.pdb
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\Task1B.genruntimeconfig.cache
+D:\study\CSharpEducation.Practice\Task1B\obj\CheckIn\net7.0\ref\Task1B.dll

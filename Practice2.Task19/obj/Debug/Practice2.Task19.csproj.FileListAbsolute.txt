@@ -1,0 +1,21 @@
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task19\bin\Debug\Practice2.Task19.exe.config
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task19\bin\Debug\Practice2.Task19.exe
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task19\bin\Debug\Practice2.Task19.pdb
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task19\obj\Debug\Practice2.Task19.csproj.AssemblyReference.cache
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task19\obj\Debug\Practice2.Task19.csproj.CoreCompileInputs.cache
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task19\obj\Debug\Practice2.Task19.exe
+C:\repository\c sharp\CSharpEducation.Practice\Practice2.Task19\obj\Debug\Practice2.Task19.pdb
+C:\study\CSharpEducation\Practice2.Task19\bin\Debug\Practice2.Task19.exe.config
+C:\study\CSharpEducation\Practice2.Task19\bin\Debug\Practice2.Task19.exe
+C:\study\CSharpEducation\Practice2.Task19\bin\Debug\Practice2.Task19.pdb
+C:\study\CSharpEducation\Practice2.Task19\obj\Debug\Practice2.Task19.csproj.AssemblyReference.cache
+C:\study\CSharpEducation\Practice2.Task19\obj\Debug\Practice2.Task19.csproj.CoreCompileInputs.cache
+C:\study\CSharpEducation\Practice2.Task19\obj\Debug\Practice2.Task19.exe
+C:\study\CSharpEducation\Practice2.Task19\obj\Debug\Practice2.Task19.pdb
+D:\study\CSharpEducation\Practice2.Task19\bin\Debug\Practice2.Task19.exe.config
+D:\study\CSharpEducation\Practice2.Task19\bin\Debug\Practice2.Task19.exe
+D:\study\CSharpEducation\Practice2.Task19\bin\Debug\Practice2.Task19.pdb
+D:\study\CSharpEducation\Practice2.Task19\obj\Debug\Practice2.Task19.csproj.AssemblyReference.cache
+D:\study\CSharpEducation\Practice2.Task19\obj\Debug\Practice2.Task19.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation\Practice2.Task19\obj\Debug\Practice2.Task19.exe
+D:\study\CSharpEducation\Practice2.Task19\obj\Debug\Practice2.Task19.pdb

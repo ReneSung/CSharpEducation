@@ -1,0 +1,7 @@
+D:\study\CSharpEducation\Practice7\bin\Debug\Practice7.exe.config
+D:\study\CSharpEducation\Practice7\bin\Debug\Practice7.exe
+D:\study\CSharpEducation\Practice7\bin\Debug\Practice7.pdb
+D:\study\CSharpEducation\Practice7\obj\Debug\Practice7.csproj.AssemblyReference.cache
+D:\study\CSharpEducation\Practice7\obj\Debug\Practice7.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation\Practice7\obj\Debug\Practice7.exe
+D:\study\CSharpEducation\Practice7\obj\Debug\Practice7.pdb

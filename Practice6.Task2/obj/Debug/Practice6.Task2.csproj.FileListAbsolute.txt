@@ -1,0 +1,10 @@
+D:\study\CSharpEducation\Practice6.Task2\bin\Debug\Practice6.Task2.exe.config
+D:\study\CSharpEducation\Practice6.Task2\bin\Debug\Practice6.Task2.exe
+D:\study\CSharpEducation\Practice6.Task2\bin\Debug\Practice6.Task2.pdb
+D:\study\CSharpEducation\Practice6.Task2\obj\Debug\Practice6.Task2.csproj.AssemblyReference.cache
+D:\study\CSharpEducation\Practice6.Task2\obj\Debug\Practice6.Task2.csproj.CoreCompileInputs.cache
+D:\study\CSharpEducation\Practice6.Task2\obj\Debug\Practice6.Task2.exe
+D:\study\CSharpEducation\Practice6.Task2\obj\Debug\Practice6.Task2.pdb
+D:\study\CSharpEducation\Practice6.Task2\bin\Debug\LogLib.dll
+D:\study\CSharpEducation\Practice6.Task2\bin\Debug\LogLib.pdb
+D:\study\CSharpEducation\Practice6.Task2\obj\Debug\Practice.8501B707.Up2Date

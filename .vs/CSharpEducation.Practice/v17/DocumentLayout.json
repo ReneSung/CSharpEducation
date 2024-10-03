@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\study\\CSharpEducation\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F2507E85-2D2F-427B-B9D5-DD302AC89CBB}|Practice7\\Practice7.csproj|d:\\study\\csharpeducation\\practice7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2507E85-2D2F-427B-B9D5-DD302AC89CBB}|Practice7\\Practice7.csproj|solutionrelative:practice7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\study\\CSharpEducation\\Practice7\\Program.cs",
-              "RelativeDocumentMoniker": "Practice7\\Program.cs",
-              "ToolTip": "D:\\study\\CSharpEducation\\Practice7\\Program.cs",
-              "RelativeToolTip": "Practice7\\Program.cs",
-              "ViewState": "AgIAANAAAAAAAAAAAAAYwOAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:31:12.698Z",
-              "EditorCaption": ""
             }
           ]
         }

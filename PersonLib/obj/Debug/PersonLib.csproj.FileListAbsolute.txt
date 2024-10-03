@@ -1,6 +1,0 @@
-C:\study\CSharpEducation\PersonLib\bin\Debug\PersonLib.pdb
-C:\study\CSharpEducation\PersonLib\obj\Debug\PersonLib.csproj.AssemblyReference.cache
-C:\study\CSharpEducation\PersonLib\obj\Debug\PersonLib.csproj.CoreCompileInputs.cache
-C:\study\CSharpEducation\PersonLib\obj\Debug\PersonLib.dll
-C:\study\CSharpEducation\PersonLib\obj\Debug\PersonLib.pdb
-C:\study\CSharpEducation\PersonLib\obj\Debug\PersonLib.csproj.Up2Date

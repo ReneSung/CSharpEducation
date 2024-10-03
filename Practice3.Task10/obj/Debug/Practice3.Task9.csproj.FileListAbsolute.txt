@@ -1,7 +1,0 @@
-C:\study\CSharpEducation-main\Practice3.Task10\bin\Debug\Practice3.Task10.exe.config
-C:\study\CSharpEducation-main\Practice3.Task10\bin\Debug\Practice3.Task10.exe
-C:\study\CSharpEducation-main\Practice3.Task10\bin\Debug\Practice3.Task10.pdb
-C:\study\CSharpEducation-main\Practice3.Task10\obj\Debug\Practice3.Task9.csproj.AssemblyReference.cache
-C:\study\CSharpEducation-main\Practice3.Task10\obj\Debug\Practice3.Task9.csproj.CoreCompileInputs.cache
-C:\study\CSharpEducation-main\Practice3.Task10\obj\Debug\Practice3.Task10.exe
-C:\study\CSharpEducation-main\Practice3.Task10\obj\Debug\Practice3.Task10.pdb

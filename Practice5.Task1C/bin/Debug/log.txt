@@ -1,6 +1,0 @@
-23.09.2024 23:13:28 | FileLogger | Info | Создан новый объект Employee
-23.09.2024 23:13:28 | FileLogger | Info | Создан новый объект Manager
-23.09.2024 23:13:28 | FileLogger | Info | Создан новый объект Contractor
-23.09.2024 23:13:44 | FileLogger | Info | Создан новый объект Employee
-23.09.2024 23:13:44 | FileLogger | Info | Создан новый объект Manager
-23.09.2024 23:13:44 | FileLogger | Info | Создан новый объект Contractor

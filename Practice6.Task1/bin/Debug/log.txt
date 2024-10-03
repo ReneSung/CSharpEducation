@@ -1,7 +1,0 @@
-01.10.2024 17:22:20 | FileLogger | Info | 25
-01.10.2024 17:22:49 | FileLogger | Error | Файл 'D:\study\CSharpEducation\Practice6.Task1\bin\Debug\numbers.txt' не найден.
-01.10.2024 17:23:16 | FileLogger | Error | Деление на ноль.
-01.10.2024 17:23:45 | FileLogger | Error | Передан пустой файл.
-01.10.2024 17:23:56 | FileLogger | Error | В файле должны быть указаны 2 числа через пробел.
-01.10.2024 17:24:05 | FileLogger | Info | 25
-01.10.2024 17:32:33 | FileLogger | Info | 25
